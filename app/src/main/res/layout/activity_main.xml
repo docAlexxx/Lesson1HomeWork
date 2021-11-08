@@ -56,4 +56,13 @@
         android:gravity="center_horizontal"
         android:text="TURN on/off" />
 
+    <Button
+        android:id="@+id/second_screen_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Profile screen!"
+        android:textColor="@color/teal_200" />
+
+
 </LinearLayout>
